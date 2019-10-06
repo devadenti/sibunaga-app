@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".JenisNagaActivity">
+
+    <TextView
+        android:id="@+id/textJudul"
+        android:layout_width="wrap_content"
+        android:layout_height="50dp"
+
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_toRightOf="@+id/btn_back"
+        android:fontFamily="serif"
+        android:text="JENIS-JENIS BUAH NAGA"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="20sp"
+        android:textColor="#36622b"
+        android:textStyle="bold"
+        />
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_below="@id/textJudul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="serif"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="BUAH NAGA PUTIH"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"
+                />
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:id="@+id/imageView2"
+                android:src="@drawable/picnaga1"
+                android:scaleType="fitXY"
+                android:contentDescription="@string/todo" />
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="serif"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="BUAH NAGA MERAH"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:id="@+id/imageView2"
+                android:src="@drawable/picnaga2"
+                android:scaleType="fitXY"
+                android:contentDescription="@string/todo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="serif"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="BUAH NAGA SUPER MERAH"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:id="@+id/imageView2"
+                android:src="@drawable/picnaga3"
+                android:scaleType="fitXY"
+                android:contentDescription="@string/todo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="serif"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="BUAH NAGA KUNING"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:id="@+id/imageView2"
+                android:src="@drawable/picnaga4"
+                android:scaleType="fitXY"
+                android:contentDescription="@string/todo" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:fontFamily="serif"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="BUAH NAGA HITAM"
+                android:textColor="@android:color/black"
+                android:textStyle="bold"/>
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="200dp"
+                android:id="@+id/imageView2"
+                android:src="@drawable/picnaga5"
+                android:scaleType="fitXY"
+                android:contentDescription="@string/todo" />
+
+
+        </LinearLayout><![CDATA[]]>
+    </ScrollView>
+
+</RelativeLayout>

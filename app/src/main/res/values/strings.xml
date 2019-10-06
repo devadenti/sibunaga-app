@@ -1,0 +1,194 @@
+<resources>
+
+    <string name="app_name">Sibunaga</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Daftar Penyakit Padi</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+    <!--UNTUK PAGE CARA MENANAM-->
+    <string name="category_step1">1.	Menyiapkan Bibit Buah Naga</string>
+    <string name="category_step2">2.	Persiapan Tanam Buah Naga</string>
+    <string name="category_step3">3.	Cara Tanam Bibit Buah Naga</string>
+    <string name="category_step4">4.	Pemeliharaan Buah Naga</string>
+    <string name="category_step5">5.	Pemanenan Buah Naga</string>
+
+    <!--TEXT DESKRIPSI STEP CARA MENANAM-->
+    <string name="description_step1">
+        Menggunakan benih atau bibit buah naga yang berkualitas merupakan salah satu kunci agar memperoleh hasil yang maksimal saat pemanenan buah naga.\n\n
+Untuk menanam tanaman buah naga bisa dengan cara generatif dan vegetatif, secara generatif berarti menanam buah naga menggunakan biji atau benih buah naga dan secara vegetatif menggunakan bibit atau dari batang buah naga yang sudah pernah berbuah.\n\n
+Sebenarnya menanam buah naga lebih mudah secara vegetatif, itu berarti menggunakan bibit buah naga.\n\n
+Karena apabila menggunakan biji benih atau secara generatif  penanaman memerlukan tempat penangkaran khusus, selain itu penanaman menggunakan bibit hasil buahnya akan sama dengan indukan, maka pilihlah bibit yang unggul.\n\n
+Jika menanam pertama kali lebih baik bibitnya anda beli saja.\n\n
+
+Ciri – ciri bibit buah naga yang bagus : \n
+•	Mempunyai tunal paling sedikit 4\n
+•	Umur bibit sudah lebih dari 2 bulan\n
+•	Tinggi bibit minimal 50cm merupakan tunas baru\n
+•	Batang berwarna hijau dan sehat, tidak ada penyakit\n
+•	Umur indukan sudah berbuah minimal 3 kali\n
+•	Usahakan memastikan hasil dari indukan nya\n
+Jika anda ingin membuat sendiri bibit buah naga maka anda bisa menyiapkan batang, media tanam dan peralatan nya.\n\n
+
+Cara membuat bibit buah naga :\n
+1.	Memilih Calon Bibit tanaman Buah Naga\n
+Batang bibit di ambil dari indukan tanaman yang sudah pernah berbuah secara produktif, carilah batang yang diameter sekitar 8 cm dan tingginya 70 cm warnanya hijau kelabu serta tampak sehat dan keras dan tua. Usahakan tidak mengambil dari induk kan yang ada penyakitnya.\n\n
+2.	Mengambil calon Bibit Dari Indukan\n
+Memotong batang tanaman yang sudah dipilih dengan panjang 80 – 120 cm. Sisakan 20 cm dari batang indukan supaya tetap bertumbuh, yang 80 cm di jadikan calon bibit tanaman. Usahakan setiap batang memiliki minimal 4 tunas yang sudah tumbuh.\n\n
+3.	Menyiapkan Batang Calon Bibit Tanaman\n
+Memotong lagi batang – batang yang sudah di ambil dari indukan dengan panjang 20 – 30 cm, untuk potongan atas tampak rata dan potongan bawah meruncing atau lancip untuk di tanam di media tanam.
+4.	Memberi Fungisida\n
+Pemberian fungisida ini bertujuan agar tanaman terhindar dari penyakit, caranya celupkan bagian bawah batang tanaman.\n\n
+5.	Memberi Perangsang Akar\n
+Bagian pangkal bawah batang tanaman di olesi perangsang akar, lalu tanam di bedengan atau polybag yang sudah berisi media tanam dengan kedalaman sekitar 5 cm.
+Media tanam terbuat dari campuran kompos, tanah, dan sekam padi dengan perbandingan 2: 1 : ½.\n\n
+6.	Menaungi Bibit Tanaman\n
+Setelah tertanam beri perlindungan steak tanaman berupa naungan dari sinar matahari langsung.\n\n
+7.	Menyiram Steak Tanaman\n
+Tanaman steak batang perlu di siram 2 kali sehari pada pagi dan sore hari secara rutin.\n\n
+8.	Memberi Cahaya Matahari\n
+Setelah batang steak di rawat selama 3 minggu, tunas pertama sudah tumbuh lalu buka penutup atau naungan tanaman agar tunas pertama terkena cahaya matahari sepenuhnya.\n\n
+Itulah cara membuat bibit tanaman buah naga dari steak batang, cukup mudah kan. Selanjutnya ke tahap penanaman.\n\n
+
+    </string>
+
+    <string name="description_step2">
+        Tanaman buah naga merupakan jenis tanaman kaktus yang tumbuh tinggi memanjang namun tidak kokoh, perlu perawatan dan pemeliharaan agar tanaman tumbuh dengan baik.\n\n
+Apabila tanaman bisa bertumbuh baik maka kemungkinan tanaman menjadi produktif, karena tanamanbisa menghasilkan buah yang banyak dalam masa tanam yang panjang sekitar 20 tahun.\n\n
+Berikut Persiapan yang di Perlukan :\n
+	Memilih Lokasi Penanaman\n
+Pohon kaktus menyimpan air pada pohon nya, usahakan lokasi yang di pilih lahan terbuka agar cukup sinar matahari dan lahan bersih dari rerumputan serta bukan lahan sawah.\n\n
+Pohon buah naga cocok untuk daerah tegalan (ladang) yang bila hujan selesai, airnya tidak menggenang karena kondisi yang terlalu basah dan kurang sinar matahari akan membuat buah naga mengalami busuk batang.
+Tanaman ini akan lebih bagus di tanam di daerah dengan ketinggian 0-350 mm di atas permukaan laut dan curah hujan 720 mm per tahun.\n\n
+	Menyediakan Tiang Panjatan\n\
+Karena tanaman ini tidak bisa tumbuh tegak maka bantu dengan tiang panjat, anda bisa membuatnya dengan kayu, cara membuatnya:\n
+1.	Pertama, siapkan tiang panjat yang terbuat dari beton. Tiang ini berfungsi untuk menopang tanaman bisa berbentuk segi empat atau pun silinder, dengan diameter 20-35 cm. Tinggi tiang panjat antara 1,5 – 2,5 meter, lalu ditanam pada kedalaman 50 cm agar lebih kuat.\n
+2.	Kedua, buat penopang pada bagian atas tiang panjat sehingga membentuk tanda plus (+), lalu tambahkan ban motor bekas sehingga nampak seperti setir mobil.\n
+3.	Ketiga, atur tiang panjat tersebut berbaris dengan jarak tanam sekitar 3meter, untuk mengatur konsumsi sinar matahari secara cukup. Sediakan juga aliran air dengan kedalaman 25 cm di antara barisan tiang panjat.\n
+Untuk Tiang panjat sebenarnya bisa di sesuaikan dengan keinginan anda, karena bisa di buat bermacam – macam.\n\n
+	Membuat Lubang Tanam\n
+Setelah tiang panjatan selesai di buat dan di pasang selanjutnya membuat lubang untuk penanaman bibit buah naga, dengan cara:\n\n
+	Buat 4 lubang tanam di sekeliling tiang panjat\n
+	Ukuran lubang tanam yaitu 60×60 cm dengan kedalaman sekitar 25 cm.\n
+	Lubang tanam yang sudah di buat diisi media berupa campuran pupuk, tanah, dan pasir dan kapur pertanian jika ada, kemudian di siram dengan air secukupnya jangan sampai menggenang. Biarkan lubang beberapa hari sampai kering dan terkena cahaya matahari.\n
+	Beri 25 gram pupuk TSP setelah 2-3 hari, Cara memberikannya dengan melingkari tiang panjat berjarak 10 cm dari tiang, lalu biarkan selama sehari. Setelah itu bisa di tanami.\n
+Memberi pupuk dari kotoran ayam yang dicampur tetesan tebu dan cairan empa, fungsinya menguatkan batang pohon buah naga.\n\n
+
+    </string>
+
+    <string name="description_step3">
+        Berikut ini cara tanam bibit buah naga dari polybag di pindahkan ke lahan penanaman:\n\n
+1.	Satu tiang panjat di gunakan untuk menanam 4 bibit buah naga, dengan bentuk mengelilingi tiang panjat, dan berjarak sekitar 10 cm.\n
+2.	Gali lubang tanam yang sudah kita buat dan kita campur dengan tanah, pasir, dan pupuk tadi dengan kedalaman sekitar 10-15 cm.\n
+3.	Ambil polybag nya lalu tanam bibit buah naga ke lubang tanam yang sudah digali, beserta tanahnya.\n
+4.	Kemudian timbun bibit menggunakan tanah hingga lalu padat\n
+5.	Setelah itu ikat keempat batang bibit tersebut menjadi satu dengan tiang, pengikatan dilakukan terus ketika tanaman buah naga bertambah panjang 20 – 30cm.\n
+6.	Potong tunas buah naga jika akan bercabang sebelum mencapai puncak tiang panjatan tetap sisakan 1 batang, apabila sudah sampai tiang panjatan biarkan buah naga bercabang banyak biasanya tumbuh 5 cabang.\n
+
+    </string>
+
+    <string name="description_step4">
+        Pemeliharaan tanaman saat budidaya buah naga termasuk faktor yang penting karena mempengarusi pertumbuhan dan hasil panen tanaman tersebut.\n\n
+Jika anda ingin tanaman bisa membuahkan hasil dengan baik, maka lakukan perawatan sebagai berikut:\n\n
+1.	Pengairan\n
+Tanaman buah naga perlu di siram 2 kali sehati setiap pagi dan sotre hari, penyiraman menggunakan air secukupnya usahakan air siraman tidak sampai menggenang.\n\n
+2.	Pemangkasan\n
+Pangkas batang tanaman pada awal penanaman, gunakan 1 batang tunas sampai ujung tiang panjatan, setelah tanaman besar pangkas lah tunas yang sekiranya tidak diperlukan, yang busuk, atau yang terkena penyakit. Kemudian timbun ke dalam tanah agar tidak menular.\n
+Cabang tanaman buah naga yang telah berbuah 4 kali lebih baik di potong lalu dijadikan bibit, dan pastikan anda tidak memangkas semua cabang.\n\n
+3.	Pemupukan\n
+Apabila batang tanaman belum mencapai ujung tiang panjatan, gunakan pupuk kandang dari kotoran ayam yang sudah kering, dan jika menggunakan pupuk buatan, beri pupuk dengan unsur N yang lebih banyak.\n\n
+Setelah tanaman tumbuh besar berikan pupuk dengan unsur P dan K yang banyak, jangan menggunakan pupuk urea karena kurang cocok untuk tanaman kaktus.\n\n
+4.	Pembersihan\n
+Pembersihan ini di lakukan karena pada tahan tanaman tumbuh gulma yang bisa merugikan tanaman budidaya buah naga, lakukan penyiangan agar tanaman buah naga bisa tumbuh dengan baik karena cukup asupan nutrisi dari pupuk.\n\n
+5.	Pencegahan penyakit\n
+Hama pada tanaman buah naga biasanya bekicot dan ulat, bisa di atasi dengan cara manual yaitu mengambil lalu membuangnya.\n\n
+Hama berupa cendawan dan kutu putih bisa dibersihkan dengan biopestisida buatan sendiri, caranya mencampur daun pahitan, limbah tembakau, dan air dengan perbandingan 1:1:2 kemudian masukkan ke wadah dan biarkan selama 1 bulan.\n\n
+6.	Mengatur pencahayaan\n
+Pastikan tanaman buah naga terkena sinar matahari yang cukup, jangan sampai lokasi anda terlalu gelap.\n\n
+Jika di perlukan butlah cahaya buatan menggunakan lampu cahaya agar bisa mempercepat panen dan bisa berbuah di bukan musim panen.\n\n
+
+    </string>
+
+    <string name="description_step5">
+        Buah naga putih biasanya siap panen setelah 10 bulan sejak awal usia penanaman, untuk buah naga merah akan panen setelan 8 bulan dari masa awal tanam.\n\n
+	Saat Panen\n
+Ukuran buah naga yang siap di panen pada umumnya berukuran berat 400-700 gram, jarak antara bunga ke buah yang masak adalah 35 hari.\n\n
+Apabila ditaruh di udara terbuka, buah naga bisa tahan selama 10 hari, dan jika di taruh lemari pendingin, bisa sampai 1 bulan.\n\n
+	Setelah Panen\n
+Setelah 2 bulan panen, lakukan pemupukan dan campur dengan kapur pertanian.\n\n
+Jenis Tanaman Buah Naga:\n
+	Hylocereus undatus\n
+Buah naga yang memiliki kulit merah dengan daging buah  berwarna putih.\n\n
+	Hylocereus polyrhisus\n
+Buah naga yang warna kulitnya merah dengan daging buah berwarna merah juga.\n\n
+	Hylocereus costaricensis\n
+Buah naga yang mempunyai kulit warna merah dengan daging buah berwarna merah pekat agak ke ungu an.\n\n
+	Hylocereus megelanthus\n
+Buah naga yang kulitnya berwarna kuning dengan daging buah berwarna putih.\n\n
+Itulah beberapa jenis buah naga yang bisa anda pilih untuk mempersiapkan bibit nya jika anda ingin menanam buah naga.\n
+Di indonesia buah naga yang paling banyak di budidaya kan jenis buah naga Hylocereus undatus dan Hylocereus polyrhisus.\n\n
+Di Indonesia buah naga termasuk salah satu buah yang di gemari, karena rasa buahnya yang manis dan lezat.\n\n
+Di pasaran sangat mudah mencari buah naga karena banyak tersedia di toko buah, selain di gemari karena rasa rasanya, tanaman buah naga juga mengandung manfaat untuk kesehatan tubuh manusia.\n
+
+
+    </string>
+
+
+    <string name="category_bnaga">Buah Naga</string>
+    <string name="category_bnaga1">Buah Naga</string>
+    <string name="category_ctanam">Serba-Serbi Buah Naga</string>
+    <string name="category_helpbantu">Bantuan</string>
+    <string name="category_tkami">Tentang</string>
+    <string name="dragon">Tentang Buah Naga</string>
+
+    <!--Text Deskripsi Tentang Buah Naga-->
+    <string name="description_naga">Pertama, kenalilah dulu apa buah naga itu. Ibarat merawat persahabatan, jika tidak mengenali maka merawatnya pun susah. Buah Naga telah lama dikenal oleh rakyat Tionghoa kuno sebagai buah yang membawa berkah. karena biasanya buah naga diletakkan diantara patung naga di altar. Oleh karena itu orang Vietnam menyebut buah naga atau dalam bahasa Vietnam disebut dengan nama Thang Loy di Thailand diberi nama Keaw Mang Kheon, dalam istilah Inggris diberi nama DRAGON FRUIT clan di Indonesia dikenal dengan nama BUAH NAGA Sebenarnya tanaman ini bukan tanaman asil daratan Asia, tetapi merupakan tanaman ask Meksiko clan Amerika Selatan bagian utara ( Colombia ).  Pada awalnya buah naga ini dibawa kekawasan Indocina ( Vietnam ) oleh seorang Perancis sekitar tahun 1870. dari Guyama Amerika Selatan sebagai hiasan sebab sosoknya yang unik dan bunganya yang cantik dan berwarna putih. Baru sekitar tahun 1980 setelah dibawa ke Okinawa Jepang tanaman ini mendunia karena sangat menguntungkan. Pada tahun 1977 buah ini dibawa ke Indonesia clan berhasil disemaikan kemudian dibudidayakan. Buah naga kaya akan vitamin dan mineral dengan kandungan serat cukup banyak sehingga cocok untuk diet.
+    </string>
+    <string name="sibunaga_serba">Serba-Serbi Buah Naga (Sibunaga)</string>
+    <string name="deskripsi_tentang">Sibunaga adalah aplikasi yang dapat membantu untuk mengetahui serba-serbi buah naga. Pengguna dapat mengetahui informasi mengenai asal-usul, manfaat, serta cara budidaya Buah Naga</string>
+    <string name="datadiri">Oleh : \n Ike Devanti \n 09031281722039 \n Sistem Infromasi \n Fakulas Ilmu Komputer \n Universitas Sriwijaya \n 2019</string>
+    <string name="todo">TODO</string>
+    <string name="subject">Subject</string>
+    <string name="pesankritik">Masukan Pesan disini...</string>
+    <string name="kirim">kirim</string>
+    <string name="todo2">TODO</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="versi_1_0">Versi 1.0</string>
+
+    <!--TITLE ACTIVITY-->
+    <string name="title_activity_buah_naga">Buah Naga</string>
+    <string name="title_activity_cara_tanam">Cara Tanam</string>
+    <string name="title_activity_step">Cara Tanam</string>
+
+    <string name="title_activity_scrolling">Bantuan</string>
+    <string name="title_activity_tentang">Tentang</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="bantuan_buah_naga">Pada menu "Serba-Serbi" Pengguna dapat mengetahui informasi
+    asal-usul buah naga, jenis-jenis buah naga, dan manfaat buah naga.
+    buah naga.\n</string>
+    <string name="bantuan_cara_tanam">Pada menu ‘CARA TANAM’ Pengguna dapat mengetahui informasi
+        cara menanam atau budidaya buah naga. </string>
+    <string name="bantuan_text">
+        "Pada menu ‘BANTUAN’ Pengguna dapat mengetahui cara Penggunaan dan juga fungsi "
+        "dari masing-masing menu pada aplikasi Sibunaga.\n"
+    </string>
+    <string name="bantuan_tentang">Pada menu ‘TENTANG’ Pengguna dapat melihat identitas aplikasi
+        BuNaga dan pengguna dapat langsung melakukan aksi untuk mengirim kritik dan saran melalui
+        tombol yang tersedia, yaitu: email ke pengembang dan melalui media sosial pengembang.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
+
+

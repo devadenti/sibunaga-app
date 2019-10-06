@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CaraTanamActivity">
+
+
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginBottom="5dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:id="@+id/imageGrow"
+        android:src="@drawable/grow3"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="sans-serif-black"
+        android:textSize="20sp"
+        android:textColor="#36622b"
+        android:text="CARA BUDIDAYA BUAH NAGA" />
+
+
+    <TextView
+        android:id="@+id/step1"
+        style="@style/CategoryStyle"
+        android:background="@color/category_list"
+        android:text="@string/category_step1"
+        android:textAlignment="center"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        />
+
+    <TextView
+        android:id="@+id/step2"
+        style="@style/CategoryStyle"
+        android:background="@color/category_list"
+        android:text="@string/category_step2"
+        android:textAlignment="center"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        />
+
+    <TextView
+        android:id="@+id/step3"
+        style="@style/CategoryStyle"
+        android:background="@color/category_list"
+        android:text="@string/category_step3"
+        android:textAlignment="center"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        />
+
+    <TextView
+        android:id="@+id/step4"
+        style="@style/CategoryStyle"
+        android:background="@color/category_list"
+        android:text="@string/category_step4"
+        android:textAlignment="center"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        />
+
+    <TextView
+        android:id="@+id/step5"
+        style="@style/CategoryStyle"
+        android:background="@color/category_list"
+        android:text="@string/category_step5"
+        android:textAlignment="center"
+        android:layout_marginLeft="45dp"
+        android:layout_marginRight="45dp"/>
+
+
+</LinearLayout>

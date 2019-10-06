@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".BuahNagaActivity">
+
+
+
+    <ImageView
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_marginBottom="5dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:id="@+id/imageSearch"
+        android:src="@drawable/ic_buku"
+        android:contentDescription="@string/todo" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="sans-serif-black"
+        android:textSize="20sp"
+        android:textColor="#36622b"
+        android:text="Serba-Serbi Buah Naga" />
+
+
+    <TextView
+        android:id="@+id/about_naga"
+        style="@style/CategoryStyle"
+        android:background="@color/category_list_merah"
+        android:text="Tentang Buah Naga"
+        android:textAlignment="center"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        />
+
+    <TextView
+        android:id="@+id/jenis_naga"
+        style="@style/CategoryStyle"
+        android:background="@color/category_list_merah"
+        android:text="Jenis-Jenis Buah Naga"
+        android:textAlignment="center"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        />
+
+    <TextView
+        android:id="@+id/manfaat_naga"
+        style="@style/CategoryStyle"
+        android:background="@color/category_list_merah"
+        android:text="Manfaat Buah Naga"
+        android:textAlignment="center"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp"/>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="3dp"
+        />
+
+
+
+
+</LinearLayout>

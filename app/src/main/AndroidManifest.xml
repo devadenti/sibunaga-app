@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.moveintent">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".AboutNagaActivity"/>
+        <activity android:name=".JenisNagaActivity"/>
+        <activity android:name=".ManfaatNagaActivity"/>
+        <activity android:name=".StepFiveActivity"
+            android:label="@string/title_activity_step"></activity>
+        <activity android:name=".StepFourActivity"
+            android:label="@string/title_activity_step"/>
+        <activity android:name=".StepThreeActivity"
+            android:label="@string/title_activity_step"/>
+        <activity android:name=".StepTwoActivity"
+            android:label="@string/title_activity_step"/>
+        <activity android:name=".StepOneActivity"
+            android:label="@string/title_activity_step"/>
+        <activity
+            android:name=".ScrollingActivity"
+            android:label="@string/title_activity_scrolling"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".TentangKamiActivity"
+            android:label="@string/title_activity_tentang"/>
+        <activity android:name=".CaraTanamActivity"
+            android:label="@string/title_activity_step"/>
+        <activity android:name=".BuahNagaActivity"
+            android:label="@string/title_activity_buah_naga"/>
+        <activity android:name=".SecondActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".NumbersActivity"
+            android:label="@string/category_numbers"
+            android:parentActivityName=".MainActivity">
+
+            <!-- Parent activity meta-data to support 4.0 and lower -->
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
