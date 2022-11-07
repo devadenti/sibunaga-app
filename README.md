@@ -1,5 +1,5 @@
 # sibunaga-app
-## Deskripsi
+## Description 
 
 This project was made to fulfill my final project assignment for the Mobile Programming course, Department of Information System, Sriwijaya University. Sibunaga (Serba-Serbi Buah Naga) is an android application that can help user to find out information about Dragon Fruit. This application has 4 main features, namely Buah Naga, How to Plan Dragon Fruit, Help, and About aplication.
 
