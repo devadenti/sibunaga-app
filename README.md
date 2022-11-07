@@ -9,17 +9,15 @@ If you'd like to know more about the source code, you can [click this link to vi
 ## Features
 
 #### Buah Naga
-<img src="https://i.ibb.co/FgLs89h/sibunaga-home.jpg" width="200" alt="sibunaga-home"/>
-<img src="https://i.ibb.co/VJDtsLv/sibunaga-home-2.jpg" width="200" alt="sibunaga-home-2"/>
+<img src="https://i.ibb.co/FgLs89h/sibunaga-home.jpg" width="256" alt="sibunaga-home"/>&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://i.ibb.co/VJDtsLv/sibunaga-home-2.jpg" width="256" alt="sibunaga-home-2"/>
 
 #### Cara Tanam
 
-<img src="https://i.ibb.co/w7YC7m1/sibunaga-cara.jpg" width="200" alt="sibunaga-cara"/>
+<img src="https://i.ibb.co/w7YC7m1/sibunaga-cara.jpg" width="256" alt="sibunaga-cara"/>
 
 #### Bantuan
-<img src="https://i.ibb.co/kmcVMhx/sibunaga-bantuan.jpg" width="200" alt="sibunaga-bantuan" />
+<img src="https://i.ibb.co/kmcVMhx/sibunaga-bantuan.jpg" width="256" alt="sibunaga-bantuan" />
 
 #### Tentang
-<img src="https://i.ibb.co/bFzg9sK/sibunaga-tentang.jpg" width="200" alt="sibunaga-tentang" />
-
-
+<img src="https://i.ibb.co/bFzg9sK/sibunaga-tentang.jpg" width="256" alt="sibunaga-tentang" />
